@@ -20,3 +20,26 @@ Volver a compilar todos lo archivos
 tsc
 
 ```
+### AGREGAR desde la terminal  
+```
+tsc --experimentalDecorators
+
+```
+
+### DIRECTIVAS ESTRUCTURALES
+
+*ngIf (mostrar y ocultar elementos html)
+
+*ngfor 
+
+* las componentes son clases de angular
+
+### Paginas alternativas para angular o ionic
+
+plunker y stackblits.com
+
+### VER EL SIGUIENTE ARCHIVO DE ANGULAR 
+
+1. Angular1
+
+

@@ -17,7 +17,7 @@ if(true){
 console.log(mensaje) */
 
 // const OPCIONES = "todas";
-
+/*
 let nombre:string = "Karla";
 let numero:number = 123;
 let boolean: boolean = true;
@@ -36,4 +36,22 @@ spiderman = {
     nombre: "Juan",
     edad: 230
 }
-console.log(hoy);
+console.log(hoy); */
+
+/**
+ * DECORADORES
+ */
+
+ function consola (constructor :Function){
+     console.log(constructor);
+ }
+ 
+ @consola
+ 
+ class Marcador{
+     constructor (public nombre: string){
+
+     }
+ }
+
+
